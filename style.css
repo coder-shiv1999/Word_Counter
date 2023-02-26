@@ -61,7 +61,7 @@ body{
     font-size: 25px;
     transition: 0.3s;
     color: #060505;
-        
+    font-family: 'Poppins', sans-serif;
 }
 #result{
     border: 1px solid blue; 
