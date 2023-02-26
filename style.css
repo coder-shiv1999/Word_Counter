@@ -14,10 +14,11 @@ body{
     justify-content: center;
     padding: 10px;
     margin: 20px;
-    
+    flex-wrap: wrap;
 }
 
 .hcontent{
+    min-width: 213px;
     padding: 5px;
     font-size: 25px;
     transition: 0.3s;
@@ -34,6 +35,7 @@ body{
 #center{
     border: 2px solid black;
     margin: 20px auto;
+    min-width: 310px;
     /* padding: 11px; */
     height: 20em;
     display: flex;
